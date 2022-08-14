@@ -1,4 +1,4 @@
-<a href='https://dunnjacob.vercel.app/'><img src='https://github.com/dunnjacoba/dunnjacoba/blob/main/components/banners/Jacob%20Dunn.gif' alt='Photo of Jacob Dunn' /></a>
+<a href='https://dunnjacob.vercel.app/' target="_blank"><img src='https://github.com/dunnjacoba/dunnjacoba/blob/main/components/banners/Jacob%20Dunn.gif' alt='Photo of Jacob Dunn' /></a>
 
 <p align='center'>
 <a target='_blank' href='https://www.linkedin.com/in/dunnjacoba/'>
