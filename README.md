@@ -1,5 +1,6 @@
 <a href='https://dunnjacob.vercel.app/' target="_blank"><img src='https://github.com/dunnjacoba/dunnjacoba/blob/main/components/banners/Jacob%20Dunn.gif' alt='Photo of Jacob Dunn' /></a>
 
+<img src='https://pbs.twimg.com/media/FbOl5uhWIAEncFK?format=jpg&name=small' alt='Octocat photo' />
 <p align='center'>
 <a target='_blank' href='https://www.linkedin.com/in/dunnjacoba/'>
 <img src='https://img.shields.io/badge/LinkedIn-Here-blue' alt='Jacob Dunn LinkedIn' />
