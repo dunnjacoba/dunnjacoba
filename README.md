@@ -16,21 +16,54 @@
 <img align='right' src='https://octodex.github.com/images/spectrocat.png' width="225" height="225">
 <p align="left">
     <a title="GIT" href="https://git-scm.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="45" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="45" height="45" />
     </a>
     <a title="Postman" href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" />
     </a>   
      <a title="PostreSQL" href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
     </a>
     <a title="MySQL" href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
     </a> 
-    <a title="JavaScript" href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+    <a title="JavaScript" href="https://www.javascript.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
     </a>
-    <a title="GitHub" href="" target="_blank">
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/github.svg" alt="github" width="45" height="45">
+    <a title="GitHub" href="https://github.com/" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/github_badge.svg" alt="github" width="45" height="45">
+    </a>
+    <a title="HTML5" href="https://html.com/html5/" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/html5.svg" alt="html5" width="45" height="45">
+    </a>
+    <a title="Markdown" href="https://www.markdownguide.org/" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/markdown.svg" alt="markdown" width="45" height="45">
+    </a>
+    <a title="Nodejs" href="https://nodejs.org/en/" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs_small.svg" alt="nodejs" width="45" height="45">
+    </a>
+    <a title="Nodejs" href="https://nodejs.org/en/" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs_small.svg" alt="nodejs" width="45" height="45">
+    </a>
+    <a title="Npm" href="https://www.npmjs.com/" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/npm.svg" alt="npm" width="45" height="45">
+    </a>
+    <a title="OpenSource" href="https://opensource.org/" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/opensource.svg" alt="opensource" width="45" height="45">
+    </a>
+    <a title="React" href="https://reactjs.org/" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" alt="react" width="45" height="45">
+    </a>
+    <a title="Sublime" href="https://www.sublimetext.com/" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/sublime.svg" alt="sublime" width="45" height="45">
+    </a>
+    <a title="Terminal" href="" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/terminal.svg" alt="terminal" width="45" height="45">
+    </a>
+    <a title="Trello" href="https://trello.com/" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/trello.svg" alt="trello" width="45" height="45">
+    </a>
+    <a title="dotNet" href="https://dotnet.microsoft.com/en-us/" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/dotnet.svg" alt="dotnet" width="45" height="45">
     </a>
     </p>
