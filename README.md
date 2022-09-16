@@ -13,7 +13,21 @@
 <img src='https://img.shields.io/badge/Twitter-Here-blue' alt='@devjdunn Twitter' />
 </a>
 </p>
-
-<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
-
-<img src="https://img.shields.io/badge/-Babel-#F9DC3E?logo=babel&logoColor=339933&style=for-the-badge&logoWidth=30" alt="Babel">
+<img align='right' src='https://octodex.github.com/images/spectrocat.png' width="225" height="225">
+<p align="left">
+    <a title="GIT" href="https://git-scm.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="45" height="45" />
+    </a>
+    <a title="Postman" href="https://postman.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" />
+    </a>   
+     <a title="PostreSQL" href="https://www.postgresql.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
+    </a>
+    <a title="MySQL" href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+    </a> 
+    <a title="JavaScript" href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+    </a>
+    </p>
