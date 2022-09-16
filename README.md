@@ -37,7 +37,7 @@
     <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/html5.svg" alt="html5" width="45" height="45">
     </a>
     <a title="Markdown" href="https://www.markdownguide.org/" target="_blank">
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/markdown.svg" alt="markdown" width="45" height="45">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png" alt="markdown" width="45" height="45">
     </a>
     <a title="Nodejs" href="https://nodejs.org/en/" target="_blank">
     <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs_small.svg" alt="nodejs" width="45" height="45">
@@ -49,19 +49,19 @@
     <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/opensource.svg" alt="opensource" width="45" height="45">
     </a>
     <a title="React" href="https://reactjs.org/" target="_blank">
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" alt="react" width="45" height="45">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="45" height="45">
     </a>
     <a title="Sublime" href="https://www.sublimetext.com/" target="_blank">
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/sublime.svg" alt="sublime" width="45" height="45">
+    <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" width="45" height="45">
     </a>
     <a title="Terminal" href="" target="_blank">
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/terminal.svg" alt="terminal" width="45" height="45">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg" alt="terminal" width="45" height="45">
     </a>
     <a title="Trello" href="https://trello.com/" target="_blank">
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/trello.svg" alt="trello" width="45" height="45">
+    <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="45" height="45">
     </a>
     <a title="dotNet" href="https://dotnet.microsoft.com/en-us/" target="_blank">
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/dotnet.svg" alt="dotnet" width="45" height="45">
+    <img src="https://logosandtypes.com/wp-content/uploads/2020/07/microsoft-net.svg" alt="dotnet" width="45" height="45">
     </a>
     <a title="C#" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="csharp" width="45" height="45">
