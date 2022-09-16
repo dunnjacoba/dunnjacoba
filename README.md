@@ -30,4 +30,7 @@
     <a title="JavaScript" href="" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
     </a>
+    <a title="GitHub" href="" target="_blank">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/github.svg" alt="github" width="45" height="45">
+    </a>
     </p>
