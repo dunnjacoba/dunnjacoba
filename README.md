@@ -42,9 +42,6 @@
     <a title="Nodejs" href="https://nodejs.org/en/" target="_blank">
     <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs_small.svg" alt="nodejs" width="45" height="45">
     </a>
-    <a title="Nodejs" href="https://nodejs.org/en/" target="_blank">
-    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs_small.svg" alt="nodejs" width="45" height="45">
-    </a>
     <a title="Npm" href="https://www.npmjs.com/" target="_blank">
     <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/npm.svg" alt="npm" width="45" height="45">
     </a>
