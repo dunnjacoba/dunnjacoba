@@ -64,6 +64,6 @@
     <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/dotnet.svg" alt="dotnet" width="45" height="45">
     </a>
     <a title="C#" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp-1536x864.png" alt="csharp" width="45" height="45">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="csharp" width="45" height="45">
     </a>
     </p>
