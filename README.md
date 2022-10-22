@@ -15,6 +15,7 @@
 </p>
 <img align='right' src='https://octodex.github.com/images/spectrocat.png' width="225" height="225">
 <p align="left">
+## Skills
     <a title="GIT" href="https://git-scm.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="45" height="45" />
     </a>
