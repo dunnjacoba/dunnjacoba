@@ -9,15 +9,14 @@
 ---
 
 <table>
-<tr>
-<td><a target='_blank' href='https://www.linkedin.com/in/dunnjacoba/'>
-<img src='https://img.shields.io/badge/LinkedIn-Here-blue' alt='Jacob Dunn LinkedIn' />
-</a></td>
-
-<td><a target='_blank' href='https://twitter.com/devjdunn'>
-<img src='https://img.shields.io/badge/Twitter-Here-blue' alt='@devjdunn Twitter' />
-</a></td>
-</tr>
+    <tr>
+        <td><a target='_blank' href='https://www.linkedin.com/in/dunnjacoba/'>
+        <img src='https://img.shields.io/badge/LinkedIn-Here-blue' alt='Jacob Dunn LinkedIn' />
+        </a></td>
+        <td><a target='_blank' href='https://twitter.com/devjdunn'>
+        <img src='https://img.shields.io/badge/Twitter-Here-blue' alt='@devjdunn Twitter' />
+        </a></td>
+    </tr>
 </table>
 
 ---
