@@ -22,7 +22,7 @@
 
 <img align='right' src='https://octodex.github.com/images/spectrocat.png' width="225" height="225">
 
-## Skills
+### Skills
 
 <p align="left">
     <a title="GIT" href="https://git-scm.com" target="_blank">
