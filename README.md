@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunnjacoba&layout=compact&theme=dark)](https://github.com/dunnjacoba/github-readme-stats)
 
+---
+
 <p align-content='center'>
 <a target='_blank' href='https://www.linkedin.com/in/dunnjacoba/'>
 <img src='https://img.shields.io/badge/LinkedIn-Here-blue' alt='Jacob Dunn LinkedIn' />
@@ -15,7 +17,13 @@
 <img src='https://img.shields.io/badge/Twitter-Here-blue' alt='@devjdunn Twitter' />
 </a>
 </p>
+
+---
+
 <img align='right' src='https://octodex.github.com/images/spectrocat.png' width="225" height="225">
+
+## Skills
+
 <p align="left">
     <a title="GIT" href="https://git-scm.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="45" height="45" />
