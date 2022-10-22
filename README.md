@@ -1,10 +1,13 @@
 <a href='https://dunnjacob.vercel.app/' target="_blank"><img src='https://github.com/dunnjacoba/dunnjacoba/blob/main/components/banners/httpsdunnjacob.vercel.app.png' alt='Banner for Jacob Dunn with a photo, decorated background and contact information, website url: https://dunnjacoba.vercel.app/ and email: dunnjacoba@gmail.com' /></a>
 
-[![@dunnjacoba's Holopin board](https://holopin.me/dunnjacoba)](https://holopin.io/@dunnjacoba)
+---
 
-![dunnjacoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunnjacoba&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunnjacoba&layout=compact&theme=dark)](https://github.com/dunnjacoba/github-readme-stats)
+<table>
+    <tr>
+        <td> ![dunnjacoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunnjacoba&show_icons=true&theme=dark) </td>
+        <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunnjacoba&layout=compact&theme=dark)](https://github.com/dunnjacoba/github-readme-stats) </td>
+    </tr>
+</table>
 
 ---
 
@@ -74,3 +77,9 @@
     <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="csharp" width="45" height="45">
     </a>
     </p>
+
+---
+
+[![@dunnjacoba's Holopin board](https://holopin.me/dunnjacoba)](https://holopin.io/@dunnjacoba)
+
+---
