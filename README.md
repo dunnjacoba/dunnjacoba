@@ -17,6 +17,7 @@
 <td><a target='_blank' href='https://twitter.com/devjdunn'>
 <img src='https://img.shields.io/badge/Twitter-Here-blue' alt='@devjdunn Twitter' />
 </a></td>
+</tr>
 </table>
 
 ---
