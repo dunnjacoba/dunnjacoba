@@ -1,4 +1,4 @@
-<a href='https://dunnjacob.vercel.app/' target="_blank"><img src='https://github.com/dunnjacoba/dunnjacoba/blob/main/components/banners/Jacob%20Dunn.gif' alt='Banner for Jacob Dunn with a photo, decorated background and contact information, website url: https://dunnjacoba.vercel.app/ and email: dunnjacoba@gmail.com' /></a>
+<a href='https://dunnjacob.vercel.app/' target="_blank"><img src='https://github.com/dunnjacoba/dunnjacoba/blob/main/components/banners/httpsdunnjacob.vercel.app.png' alt='Banner for Jacob Dunn with a photo, decorated background and contact information, website url: https://dunnjacoba.vercel.app/ and email: dunnjacoba@gmail.com' /></a>
 
 [![@dunnjacoba's Holopin board](https://holopin.me/dunnjacoba)](https://holopin.io/@dunnjacoba)
 
