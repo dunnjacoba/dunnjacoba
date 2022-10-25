@@ -10,7 +10,7 @@
 
 <p align="center">Community is the foundation of Open Source, find yours and <strong>GROW</strong>!!</p>
 
-- :office: Full stack developer at <a href="https://www.theseam.com/">The Seam</a>
+- :office: Full stack software developer at <a href="https://www.theseam.com/">The Seam</a>
 - :octocat: Open Source contributor
 - :computer: :video_game: Avid gamer, computer and console
 
