@@ -8,6 +8,12 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunnjacoba&layout=compact&theme=dark)](https://github.com/dunnjacoba/github-readme-stats) -->
 
+<p align="center">Community is the foundation of Open Source, find yours and <strong>GROW</strong></p>
+
+- :office: Full stack developer at <a href="https://www.theseam.com/">The Seam</a>
+- :octocat: Open Source contributor
+- :computer: :video_game: Avid gamer, computer and console
+
 ---
 
 <table>
